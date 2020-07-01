@@ -22,7 +22,7 @@
         <version.gson>2.8.5</version.gson>
         <version.HikariCP>3.3.0</version.HikariCP>
         <version.metrics-core>4.0.5</version.metrics-core>
-        <version.mysql-jdbc>8.0.14</version.mysql-jdbc>
+        <version.mysql-jdbc>8.0.16</version.mysql-jdbc>
 
 
 
